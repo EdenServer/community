@@ -9,3 +9,7 @@
 4. Attach the appropriate labels
 
 5. Click Submit
+
+![Step 1](https://raw.githubusercontent.com/EdenServer/Issues/step1.png)
+
+![Step 2](https://raw.githubusercontent.com/EdenServer/Issues/step2.png)
