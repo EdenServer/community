@@ -1,7 +1,7 @@
 ## Table of Contents
 
 1. [How to submit a bug report](https://github.com/EdenServer/community/blob/master/README.md#how-to-submit-a-bug-report)
-2. [How to get rid of those pesky "NPC" mob names](https://github.com/EdenServer/community/blob/master/README.md)
+2. [How to get rid of those pesky "NPC" mob names](https://github.com/EdenServer/community/blob/master/README.md#how-to-get-rid-of-those-pesky-npc-mob-names)
 
 ## How to submit a bug report
 
