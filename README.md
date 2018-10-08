@@ -5,6 +5,8 @@
 
 ## How to submit a bug report
 
+0. Search to see if your issue has already been submitted. If it has you can comment on that issue instead of posting your own.
+
 1. Click Issues
 
 2. Click New Issue
