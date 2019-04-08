@@ -2,7 +2,7 @@
 <!--
     Don't edit or delete this section, but tick the boxes after you have submitted your issue. 
     If there are unticked boxes a developer may not address the issue.
-    Make sure you comply with the checklist and then start in the details section.
+    Make sure you comply with the checklist and then start writing in the details section below.
 -->
 
 - [ ] I have searched for existing issues for issues like this one. The issue has not been posted. (Duplicate reports slow down development.)
