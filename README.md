@@ -28,7 +28,7 @@
 1. Make a new folder in './Ashita/addons' and name it 'renamer'.
 2. Copy the [Renamer plugin](https://raw.githubusercontent.com/TeoTwawki/renamer/master/ashita/v3/renamer.lua) to the renamer folder that you just made
 3. Create another folder inside the 'renamer' folder and name it 'lists'
-4. click on the eden file in the renamer file, then click raw. copy it and paste it into a new file using notepad++ or something similar. Save as a .lua file
+4. click on the eden file in the renamer file, then click raw. copy it and paste it into a new file using notepad++ or something similar. Save as eden.lua file
 5. Inside your default script ('./Ashita/scripts/Default.txt' if you haven't changed it) add the following lines in order...
 ```txt
 /addon load renamer
