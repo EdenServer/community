@@ -7,7 +7,7 @@
 -->
 
 - [ ] I have searched for existing issues for issues like this one. The issue has not been posted. (Duplicate reports slow down development.)
-- [ ] I have provided reproducable steps. (No "as the title says" posts please. Provide reproducable steps even if it seems like a waste of time.)
+- [ ] I have provided reproducable steps. (No "as the title says" posts please. Provide reproducible steps even if it seems like a waste of time.)
 - [ ] I have provided my client version in the details. (type /ver into your game window)
 
 ### Details
