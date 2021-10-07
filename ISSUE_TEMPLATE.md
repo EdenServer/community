@@ -8,7 +8,7 @@
 - [ ] I have searched for existing issues for issues like this one. The issue has not been posted. (Duplicate reports slow down development.)
 - [ ] I have provided reproducible steps. (No "as the title says" posts please. Provide reproducible steps even if it seems like a waste of time.)
 - [ ] I have provided my client version in the details. (type /ver into your game window)
-- [ ] ***I have provided proof of my claim (era videos, links to era wiki and/or forum posts)*** This is the number one thing that will slow down fixes and prioritization. Please provide proof so that developers' research time is minimized.
+- [ ] ***I have provided proof of my claim (era videos, links to era wiki and/or forum posts)*** Lack of proof is the number one thing that will slow down fixes and prioritization. Please provide proof so that developers' research time is minimized.
 
 ### Details
 
