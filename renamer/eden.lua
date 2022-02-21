@@ -1525,6 +1525,7 @@ ObjectList = {
         { 17543544, "Avatar Icon" },
         { 17543545, "Avatar Icon" },
         { 17543546, "Avatar Icon" },
+        { 17543547, "Avatar Icon" },		
         { 17543548, "Avatar Icon" },
         { 17543549, "Avatar Icon" },
         { 17543550, "Avatar Icon" },
