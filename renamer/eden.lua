@@ -775,7 +775,6 @@ ObjectList = {
         {17027401, 'Wamoura Prince'},
         {17027402, 'Wamoura Prince'},
     },
-}
     [68] =
     -- Aydeewa Subteranne
     {
@@ -804,6 +803,12 @@ ObjectList = {
         {17056024, 'Cave Tiger'},
         {17056025, 'Cave Tiger'},
         {17056026, 'Cave Tiger'},
+        {17056030, 'Aydeewa Diremite'},
+        {17056031, 'Aydeewa Diremite'},
+        {17056032, 'Aydeewa Diremite'},
+        {17056033, 'Aydeewa Diremite'},
+        {17056034, 'Aydeewa Diremite'},
+        {17056035, 'Aydeewa Diremite'},
     },
     [79] =
     -- Caedarva Mire
