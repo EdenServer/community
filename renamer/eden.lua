@@ -825,11 +825,16 @@ ObjectList = {
         {17101024, 'Heraldic Imp'},
         {17101028, 'Heraldic Imp'},
         {17101031, 'Heraldic Imp'},
+        {17101100, 'Heraldic Imp'},
         {17101102, 'Spongilla Fly'},
         {17101104, 'Spongilla Fly'},
         {17101107, 'Spongilla Fly'},
+        {17101109, 'Heraldic Imp'},
         {17101112, 'Spongilla Fly'},
+        {17101113, 'Heraldic Imp'},
         {17101115, 'Spongilla Fly'},
+        {17101116, 'Heraldic Imp'},
+
     },
 
     [134] =
