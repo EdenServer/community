@@ -1982,6 +1982,7 @@ ObjectList = {
     [204] =
     -- Feiyin
     {
+        { 17612873, "Drone" },
         { 17612873, "Undead Bats" },
         { 17612874, "Undead Bats" },
         { 17612875, "Undead Bats" },
@@ -2092,4 +2093,5 @@ ObjectList = {
     {
         {16896078, "Passage Crab"},
     },
+
 }
