@@ -2,8 +2,6 @@
 name: Bug report
 about: Bug reports for Eden server
 title: ''
-labels: ''
-assignees: ''
 
 ---
 
